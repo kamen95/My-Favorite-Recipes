@@ -1,0 +1,35 @@
+.chef{
+    width:400px;
+    height:auto;
+}
+
+
+.list{
+    padding-top:10px;
+    padding-right: 40px;
+}
+
+body{
+    background-color:orange;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    
+    padding-left:25%;
+    padding-right:25%;
+}
+
+.friedriceimg,.sandwich, .pasta{
+width:400px;
+height:auto;
+border-radius:5px;
+}
+
+.unlist, .orderlist{
+    list-style-position: inside;
+}
+
+a:hover{
+    border-radius:3px;
+    color:whitesmoke;
+}
+
